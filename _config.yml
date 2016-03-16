@@ -1,0 +1,28 @@
+name: Through the Veil
+favicon: null
+layout_spectrum: 0.9455321861896664
+typography_spectrum: 0.9682947343681008
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5691448419820517
+  lightness: 0.816845673834905
+  saturation: 0.6645127052906901
+  rhythmicContrast: 0.24995424435473979
+purpose: []
